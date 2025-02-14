@@ -1,0 +1,41 @@
+body{background-color: #fff5db;}
+
+header{
+    background-color: #24ddb5; margin-top: -10px;margin-right: -10px;margin-left: -10px; padding: 10px;
+    display: flex;justify-content: space-between;
+}
+
+h1{
+display: inline-block; color: #f9eed2;font-family: 'Trebuchet MS', sans-serif;
+}
+
+h4{
+display: inline-block;color:#143626af;font-family: 'Trebuchet MS', sans-serif;
+}
+
+h5{
+    display: inline-block;color:#143626af;font-family: 'Trebuchet MS', sans-serif;
+    }
+
+
+.diet,.workout,.account,.recipes{display: inline-block;}
+
+.diet,.account,.recipes,.workout{
+    margin-top: 35px; margin-right: 10px;
+}
+
+a{color: #0f4108; font-family: 'Trebuchet MS', sans-serif;text-decoration: none; margin-top: 50px;
+}
+
+a:hover {
+    color: #f9eed2;}
+
+.center{margin-top: 50px ;margin-left: 300px ;max-width: 600px ;padding:10px;background-color: white; border-radius: 48px;text-align: center;}
+
+h2{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.h11{
+    color:black;
+}
